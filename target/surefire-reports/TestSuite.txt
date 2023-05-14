@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 62.304 s <<< FAILURE! - in TestSuite
+endToEndValidation(com.testcases.EndToEndTest)  Time elapsed: 28.507 s  <<< FAILURE!
+java.lang.AssertionError: expected [Your order on My Store uncom] but found [Your order on My Store is complete.]
+	at com.testcases.EndToEndTest.endToEndValidation(EndToEndTest.java:53)
+
